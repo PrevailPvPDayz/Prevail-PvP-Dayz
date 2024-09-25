@@ -1,2 +1,3 @@
 # Prevail-PvP-Dayz
-The Collection of Rules for the Dayz Server: Prevail PvP
+Please be sure to read and understand all server rules before proceeding.
+https://discord.com/invite/prevailpvp
